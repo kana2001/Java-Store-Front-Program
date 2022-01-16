@@ -1,2 +1,2 @@
 # Java-Store-Front-Program
-E-Commerce Application in Java
+An E-Commerce Application created in Java.
