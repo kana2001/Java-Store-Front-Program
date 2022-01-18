@@ -30,4 +30,4 @@ An E-Commerce Application created in Java.
 </p>
 
 ## To Run
-Run the program in an IDE like IntelliJ
+Run the StoreView.java in an IDE like IntelliJ
