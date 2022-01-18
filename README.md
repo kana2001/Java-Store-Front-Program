@@ -28,3 +28,6 @@ An E-Commerce Application created in Java.
 <p align = "center">
 <b>When the user would like to finish their transaction, the checkout button is pressed</b>
 </p>
+
+## To Run
+Run the program in an IDE like IntelliJ
